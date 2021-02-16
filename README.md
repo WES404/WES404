@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href ="https://www.linkedin.com/in/wes-rod/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
 </a>
-<a href ="wesleirodrigues042@gmail.com">
+<a href ="mailto: wesleirodrigues042@gmail.com">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="" style="vertical-align:top margin:6px 4px">
 </a>
 </p>
