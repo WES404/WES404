@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* Engenheiro Civil
+* Interesse em Machine Learning e Data Science
+
+### Skills ⚡
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+</a> 
+                                                                                                         
+
+### Contact 📱
+
