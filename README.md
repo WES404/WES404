@@ -30,12 +30,13 @@ Here are some ideas to get you started:
                                                                                                          
 
 ### Contact 📱
+<p align = "center">
 <a href ="https://www.linkedin.com/in/wes-rod/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
 </a>
 <a href ="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="wesleirodrigues042@gmail.com" style="vertical-align:top margin:6px 4px">
 </a>
-
+</p>
 
 
