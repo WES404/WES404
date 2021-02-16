@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" alt="Data Science" style="vertical-align:top margin:6px 4px">
+    <img src="https://https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" alt="Data Science" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="AI" style="vertical-align:top margin:6px 4px">
 </a> 
