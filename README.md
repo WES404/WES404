@@ -26,8 +26,9 @@ Here are some ideas to get you started:
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" alt="Data Science" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="AI" style="vertical-align:top margin:6px 4px">
 </a> 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazywes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazywes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
                                                                                                          
 
