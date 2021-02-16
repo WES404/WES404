@@ -25,13 +25,11 @@ Here are some ideas to get you started:
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" alt="Data Science" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="AI" style="vertical-align:top margin:6px 4px">
-</a> 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazywes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 </p>
-
-
-                                                                                                         
-
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazywes)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazywes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
 ### Contact 📱
 <p align = "center">
 <a href ="https://www.linkedin.com/in/wes-rod/">
