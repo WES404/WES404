@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Engenheiro Civil
+* Estudante de Engenheira Civil
 * Aprendo línguas e programação por hobby
 * Interesse em Machine Learning e Data Science
 
